@@ -1,0 +1,31 @@
+/* Use CSS to style each of the color titles to match their meaning */
+#red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+  
+  #orange {
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+  
+  /* Use CSS to change all the color titles to have "font-weight: normal;" */
+  .color-title {
+    font-weight: normal;
+  }
+  
+  /* Use CSS to make all the images 200px in height and width */
+  img.color {
+    height: 200px;
+    width: 200px;
+  }  
